@@ -1,0 +1,9 @@
+{
+  "name": "irc",
+  "version": "0.0.1",
+  "description": "an irc app",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
